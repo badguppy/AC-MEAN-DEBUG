@@ -1,0 +1,22 @@
+{
+  "name": "debugapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myapp/app.js --inspect=127.0.0.1:5858",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badguppy/AC-MEAN-DEBUG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badguppy/AC-MEAN-DEBUG/issues"
+  },
+  "homepage": "https://github.com/badguppy/AC-MEAN-DEBUG#readme",
+  "dependencies": {
+    "express": "^4.0.0"
+  }
+}
