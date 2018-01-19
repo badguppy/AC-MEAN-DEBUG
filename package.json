@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/badguppy/AC-MEAN-DEBUG#readme",
   "dependencies": {
-    "express": "^4.0.0"
+    "express": "^4.0.0",
+    "cookie-parser": "*"
   }
 }
